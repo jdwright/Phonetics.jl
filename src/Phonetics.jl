@@ -1,5 +1,9 @@
 module Phonetics
 
-# Write your package code here.
+export test
+function test()
+    println("hello world")
+    "hello world"
+end
 
 end
